@@ -1,0 +1,47 @@
+body{
+    font-family: Arial, 'Helvetica', sans-serif;
+    background-color: dimgrey;
+}
+nav{
+    text-align: center;
+    border-style: outset;
+    margin-inline: 4cm;
+    border-color: grey;
+    background-color: grey;
+    color: black;
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    text-align: center;
+}
+h2{
+    font-size: 30px;
+    text-align: center;
+}
+img{
+    align-content: center;
+}
+h3{
+    font-size: 25px;
+    text-align: center;
+}
+nav{
+    text-align: center;
+
+}
+table{
+    background-color: grey;
+}
+#contoh{
+    color: grey;
+}
+#deskripsi{
+    font-size: 17px;
+}
+#appearance{
+    text-align: left;
+}
+table{
+    text-align: left;
+}
